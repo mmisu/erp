@@ -1,18 +1,24 @@
 
-Descriere
-+++++++++
+Continut contnet
+++++++++++++++++
 
-Key Goals
-=========
+Instalare
+---------
 
-Option
+Module
 ======
 
-T1
---
+Contnet - Contabilitate generala
+--------------------------------
 
-T2
---
+Gestnet - Gestiunea materialelor si stocurilor
+----------------------------------------------
 
-T3
---
+Mfnet - Mijloace fixe
+---------------------
+
+Salnet - Hr si calcul salarii
+-----------------------------
+
+Contracte - Evidenta contractelor
+---------------------------------
