@@ -6,15 +6,23 @@ Instalare
 ---------
  `Instalare <http://www.arhimedes.ro/>` se realizeaza cu click la adresa http://www.arhimedes.ro
 
-Option
+Module
 ------
 
-S1
+
 ~~
 
-S2
+Contnet - Contabilitate generala
 ~~
 
-S3
+Gestnet - Gestiunea materialelor si stocurilor
 ~~
 
+Mfnet - Mijloace fixe
+~~
+
+Salnet - Hr si calcul salarii
+~~
+
+Contracte - Evidenta contractelor
+~~
